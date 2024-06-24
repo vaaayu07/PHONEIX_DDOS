@@ -321,14 +321,14 @@ def welcome_plan(message):
     response = f'''{user_name}, Brother Only 1 Plan Is Powerfull Then Any Other Ddos !!:
 
 Vip :
--> Attack Time : 200 (S)
-> After Attack Limit : 2 Min
+-> Attack Time : 180 (S)
+> After Attack Limit : 5 Min
 -> Concurrents Attack : 300
 
 Pr-ice List:
-Day-->100 Rs
-Week-->250 Rs
-Month-->600 Rs
+Day-->120 Rs
+Week-->650 Rs
+Month-->1800 Rs
 By  @PHONEIX_ZELLY
 '''
     bot.reply_to(message, response)
